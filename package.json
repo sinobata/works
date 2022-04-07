@@ -2,7 +2,7 @@
   "name": "works",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sinoguro.github.io/works",
+  "homepage": "http://sinobata.github.io/works",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.4",
